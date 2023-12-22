@@ -23,7 +23,7 @@ const ProductComponent = () => {
                 <div className="header">{title}</div>
                 <div className="meta">{category}</div>
                 <div className="description">
-                  <p>{`Price: $${price}`}</p>
+                  <p>{`Price: ${price} Rs`}</p>
                 </div>
               </div>
             </div>
